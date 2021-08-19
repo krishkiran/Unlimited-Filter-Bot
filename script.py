@@ -52,6 +52,6 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """
+    ABOUT_MSG = """ Hi {} I'm Samantha v2.O Auto Filter Bot Specially Made For 2kTamilmovies Controlled By [This Person](https://t.me/DChoco_Boy) 😎
 
 """
